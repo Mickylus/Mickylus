@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mickylus
+- Currently learning C/Python
+- Want to learn Javascript
